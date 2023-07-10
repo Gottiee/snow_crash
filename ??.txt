@@ -1,1 +1,0 @@
-cat /etc/bash.bashrc -> sudo hint ? 
